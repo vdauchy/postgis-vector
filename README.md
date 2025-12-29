@@ -1,11 +1,15 @@
 # PostgreSQL with PostGIS and pgvector Extensions
 
-[![Docker Build](https://img.shields.io/badge/docker-automated-blue.svg)](https://hub.docker.com/)
+[![Docker Image Version](https://img.shields.io/docker/v/vdauchy/postgis-vector/latest)](https://hub.docker.com/r/vdauchy/postgis-vector/tags)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue.svg)](https://www.postgresql.org/)
 [![PostGIS](https://img.shields.io/badge/PostGIS-3.5-brightgreen.svg)](https://postgis.net/)
 
 A Docker image based on the official PostGIS image with additional pgvector extension for vector similarity search capabilities. This setup is perfect for applications requiring geospatial data processing combined with machine learning vector operations.
+
+## 📦 Docker Hub
+
+- **Image**: [https://hub.docker.com/r/vdauchy/postgis-vector](https://hub.docker.com/r/vdauchy/postgis-vector)
 
 ## 🚀 Features
 
